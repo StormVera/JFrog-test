@@ -1,0 +1,11 @@
+{
+  "files": [
+    {
+      "pattern": "/home/zhanghuimin/JFrogArtifactory/test_once/",
+      "target": "TEST-Python/test-jfrog-cli-once/",
+      "targetProps": "description=add tools for hand-genture",
+      "recursive": "true",
+      "flat": "false"
+    }
+  ]
+}
