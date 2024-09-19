@@ -6,7 +6,7 @@ trap 'echo "Error occurred at line $LINENO."; exit 1' ERR
 
 # 定义构建名称和构建号
 BUILD_NAME="test-jfrog-cil-sh"
-BUILD_NUMBER="0.0.1"
+BUILD_NUMBER="0.0.3"
 
 # 定义 text.json 文件的路径
 SPEC_PATH="/home/zhanghuimin/JFrogArtifactory/JFrogArtifactoryCLI/test_jfrog_upload.json"
